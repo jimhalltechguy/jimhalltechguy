@@ -3,8 +3,8 @@
 <h2>🖥 Information Technology Projects:</h2>
 
 - <b>Windows Fundamentals</b>
-  - [Windows: Local and Domain Accounts(https://github.com/jimhalltechguy/windows-local-and-domain)
-  - [osTicket: Post-Installation Configuration](https://github.com/jimhalltechguy/post-install-config)
+  - [Windows: Local and Domain Accounts](https://github.com/jimhalltechguy/windows-local-and-domain)
+  - [osTicket: Local and Domain Accounts(https://github.com/jimhalltechguy/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jimhalltechguy/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jimhalltechguy/configure-ad)
