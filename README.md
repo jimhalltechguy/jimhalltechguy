@@ -5,6 +5,7 @@
 - <b>Windows Fundamentals</b>
   - [Windows: Local and Domain Accounts](https://github.com/jimhalltechguy/windows-local-and-domain)
   - [Windows: Useful Command Prompt (Bash) Commands](https://github.com/jimhalltechguy/windows-cmd-prompt)
+  - [Windows: What is Active Directory?](https://github.com/jimhalltechguy/what-is-active-directory)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jimhalltechguy/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jimhalltechguy/azure-network-protocols)
