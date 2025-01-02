@@ -6,6 +6,11 @@
   - [Windows: Local and Domain Accounts](https://github.com/jimhalltechguy/windows-local-and-domain)
   - [Windows: Useful Command Prompt (Bash) Commands](https://github.com/jimhalltechguy/windows-cmd-prompt)
   - [Windows: What is Active Directory?](https://github.com/jimhalltechguy/what-is-active-directory)
+- <b>Linux Fundamentals</b>
+  - [Linux: Introduction to the Linux Terminal](https://github.com/jimhalltechguy/intro-linux-terminal)
+  - [Linux: User Levels and Sudo](https://github.com/jimhalltechguy/linux-levels-and-sudo)
+  - [Linux: File System Heirarchy](https://github.com/jimhalltechguy/linux-file-system-heirarchy)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jimhalltechguy/azure-network-protocols)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jimhalltechguy/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jimhalltechguy/azure-network-protocols)
@@ -13,9 +18,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jimhalltechguy/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jimhalltechguy/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jimhalltechguy/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/jimhalltechguy/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jimhalltechguy/azure-network-protocols)
+
 
 <h2>Connect with me:</h2>
 
