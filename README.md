@@ -19,7 +19,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jimhalltechguy/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jimhalltechguy/ticket-lifecycle)
 - <b>Network Fundamentals</b>
-  - [Networks: Helpful Network Troubleshooting Commands](https://github.com/jimhalltechguy/network-troubleshooting)
+  - [Networks: Helpful Network Troubleshooting Commands (for Windows)](https://github.com/jimhalltechguy/network-troubleshooting)
 
 <h2>Connect with me:</h2>
 
