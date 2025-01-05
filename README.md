@@ -12,8 +12,8 @@
   - [Linux: File System Heirarchy](https://github.com/jimhalltechguy/linux-file-system-heirarchy)
   - [Linux: Linux File Permissions](https://github.com/jimhalltechguy/linux-file-permissions)
 - <b>IT Help Desk</b>
+  - [Help Desk Ticket Practice: Installing/Configuring osTicket to Create and Service Help Desk Tickets](https://github.com/jimhalltechguy/osTicket-practice)
   - [Network: Helpful Network Troubleshooting Commands (for Windows)](https://github.com/jimhalltechguy/network-troubleshooting)
-
 
 <h2>Connect with me:</h2>
 
