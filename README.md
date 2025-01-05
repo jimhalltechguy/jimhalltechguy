@@ -11,7 +11,7 @@
   - [Linux: User Levels and Sudo](https://github.com/jimhalltechguy/linux-levels-and-sudo)
   - [Linux: File System Heirarchy](https://github.com/jimhalltechguy/linux-file-system-heirarchy)
   - [Linux: Linux File Permissions](https://github.com/jimhalltechguy/linux-file-permissions)
-- <b>Network Fundamentals</b>
+- <b>IT Help Desk</b>
   - [Network: Helpful Network Troubleshooting Commands (for Windows)](https://github.com/jimhalltechguy/network-troubleshooting)
 
 
